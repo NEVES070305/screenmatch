@@ -5,6 +5,8 @@ public class Main {
         meuFilme.anoDeLancamento = 2022;
         meuFilme.nome = "Guardiões da Galáxia";
 
+        meuFilme.avalia(2);
+
         meuFilme.exibeFichaTecnica();
     }
 }
